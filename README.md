@@ -2,14 +2,15 @@
 
 <!--
 **pollardld/pollardld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I work for [Ecotrust](https://ecotrust.org)
-- 🌱 Stayin curious
-- 🧠 Open to new info, ideas
-- 🦠 I am mostly a system of microrganisms and water
-- 🌍 A member of many ecosystems
-- 💰 Extractive capitalism is not so intelligent
-- ⚡ Fun fact: You have endemic species living on you
--->
+- 🌳 🛶  Apply my trade at [Ecotrust](https://ecotrust.org)
+- 🌲 🌻  Love for photoautotrophs is in the air
+- 👨‍🧠  Not a super smart guy
+- 🌫️ 🌁  Head in the fog
+- 🦠 🌊  A system thick of microrganisms & water
+- 🐺 🥔  A voice crying out with a hot potato
+- 💰 🌍  A penny saved is a penny extracted from nature
+- 🤦 🤐  If you don't have anything of value to say, zip your lips 
+
