@@ -1,8 +1,11 @@
 ### 👋 welcome my fellow 🦧 🧍‍♀️ 🦍 hominoids
 
 You've made it! I'm elated! Though, i must admit, your visit is perplexing. 🤔
+
 You won't find much of anything here. 
-That is unless you're here seeking bygone code. Perhaps you are probbing for information on my rectitude. 
+
+That is unless you're here seeking bygone code. Perhaps you are probbing for information on my rectitude.  
+
 **It is a pleasure for you to meet me:**  
 
   * yes, i do not work for a business 🍌 🍌 No, but i do apply my trade with [Ecotrust](https://ecotrust.org)
