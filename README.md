@@ -1,15 +1,14 @@
-### Hi there 👋
+### 👋 welcome my fellow 🦧 🧍‍♀️ 🦍 hominoids
 
-<!--
-**pollardld/pollardld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:  
-  - 🌳  . 🛶  :  Apply my trade at [Ecotrust](https://ecotrust.org)
-  - 🌲  . 🌻  :  Love for photoautotrophs is in the air
-  - 👨‍ . 🧠  :  Not a super smart guy
-  - 🌫️  . 🌁  :  Head in the fog
-  - 🦠  . 🌊  :  A system thick of microrganisms & water
-  - 🐺  . 🥔  :  A voice crying out with a hot potato
-  - 💰  . 🌍  :  A penny saved is a penny extracted from nature
-  - 🤦  . ⏳  :  Procrastination is a life well lived
+You've made it! I'm elated! Though, i must admit, your visit is perplexing. You won't find much of anything here. That is unless you're here seeking bygone code or probbing my rectitude. 
+
+**It is a pleasure for you to meet me:**  
+
+  * yes, i do not work for a business 🍌 🍌 No, but i do apply my trade with [Ecotrust](https://ecotrust.org)
+  * 🌲 i do it for the photoautotrophs
+  * more 🧠 than a super smart guy
+  * 🌫️ a marine layer inversion 🌁  is the advection layer to warm my heart 💗
+  * a vast system of mostly 🦠 microrganisms & water 💧 is what makes me... me 🦕
+  * 👀 --> 🌎 🌍 🌏 > don't fuck it up! a bunch of us live here 🌻 🍄 🐞 🦗 🐙 🦥 🦔 🌴
+  * only thing i optimize for 🪤 efficiency is resilancy and time for curiousity 🔙 🔜 
 
