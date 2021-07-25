@@ -1,20 +1,30 @@
-### 👋 welcome my fellow 🦧 🧍‍♀️ 🦍 hominoids
+# 👋 welcome my fellow 🦧 🧍‍♀️ 🦍 hominoids
 
-You've made it! I'm elated! Though, i must admit, your visit is perplexing. 🤔
+*You've made it! I'm elated!*  
 
-You won't find much of anything here. 
+## Professional software developer and engineer. 
+### Amateur bryologist, geologist, paleontologist, arborist, cosmologist, numismatist, philatelist, ornithologist, bibliophile, and scutelliphile.
 
-That is unless you're here seeking bygone code. Perhaps you are probbing for information on my rectitude.  
+----  
 
-**it is a pleasure for you to meet me:**  
+Majority of software engineering contributions on @Ecotrust organizational page. 
 
-  * yes, i do not work for a business 🍌 🍌 No, but i do apply my trade with [Ecotrust](https://ecotrust.org)
-  * 🌲 i do it for the photoautotrophs. more 🧠 than a super smart guy
-  * 🌫️ a marine layer inversion 🌁  is the advection layer to warm my heart 💗
-  * a vast system of mostly 🦠 microrganisms & water 💧 is what makes me... me 🦕
-  * 👀 --> 🌎 🌍 🌏 > don't fuck it up! a bunch of us live here 🌻 🍄 🐞 🦗 🐙 🦥 🦔 🌴
-  * only thing i optimize for 🪤 efficiency is resilancy 🔙 🔜 
+[Ecotrust](https://ecotrust.org) is non profit that advances social equity, ecological economic opportunity, and ecosystem well-being. We work in partnership towards an equitable, prosperous, climate-ethical future. At Ecotrust, we see equity as an integral component of our mission, vital to fostering resilient communities, economies, and ecosystems. Deep-rooted, systemic diversity is essential to our ability to survive and thrive.   
 
-**care to solve a riddle?**
+Systems ecology is used to learn and analyse complexity. 
 
-> A 9-second pause starts the sequence and is followed by a 1-second foghorn blast, a 2-second pause, a 1-second blast, a 36-second pause, a 1-second blast, a 2-second pause, a 1-second blast, and a 36-second pause.
+Personal repository commitments are less frequent. See Ecotrust profile - https://github.com/Ecotrust
+
+--- 
+
+**It is a pleasure for you to meet me:**  
+
+  * 🌲 I represent the photoautotrophs.
+  * 🌫️ a marine layer inversion 🌁 is the advection layer for me (fog).
+  * I am a vast system of mostly 🦠 microrganisms & H<sup>2</sup>0 💧 
+  * Hey 👀 we have one 🌎 and a bunch of us live here 🌻 🍄 🐞 🦗 🐙 🦥 🦔 🌴
+  * My science is a slow computer science. Low 🪤 efficiency optimization. High resilancy.  
+
+**Care to solve a riddle?**
+
+> I am a 9-second pause starts the sequence and is followed by a 1-second foghorn blast, a 2-second pause, a 1-second blast, a 36-second pause, a 1-second blast, a 2-second pause, a 1-second blast, and a 36-second pause.
