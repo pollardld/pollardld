@@ -3,7 +3,7 @@
 *You've made it! I'm elated!*  
 
 ## Professional software developer and engineer. 
-### Amateur bryologist, geologist, paleontologist, arborist, cosmologist, numismatist, philatelist, ornithologist, bibliophile, and scutelliphile.
+### Amateur bryologist, geologist, paleontologist, arborist, cosmologist, numismatist, philatelist, ornithologist, ecologist, bibliophile, and scutelliphile.
 
 ----  
 
