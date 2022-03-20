@@ -5,18 +5,6 @@
 ## Professional software developer and engineer. 
 ### Amateur bryologist, geologist, paleontologist, arborist, cosmologist, numismatist, philatelist, ornithologist, ecologist, bibliophile, and scutelliphile.
 
-----  
-
-Majority of software engineering contributions on @Ecotrust organizational page. 
-
-[Ecotrust](https://ecotrust.org) is non profit that advances social equity, ecological economic opportunity, and ecosystem well-being. We work in partnership towards an equitable, prosperous, climate-ethical future. At Ecotrust, we see equity as an integral component of our mission, vital to fostering resilient communities, economies, and ecosystems. Deep-rooted, systemic diversity is essential to our ability to survive and thrive.   
-
-Systems ecology is used to learn and analyse complexity. 
-
-Personal repository commitments are less frequent. See Ecotrust profile - https://github.com/Ecotrust
-
---- 
-
 **It is a pleasure for you to meet me:**  
 
   * 🌲 I represent the photoautotrophs.
