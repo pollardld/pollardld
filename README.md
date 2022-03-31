@@ -1,4 +1,4 @@
-# 👋 welcome my fellow 🦧 🧍‍♀️ 🦍 hominoids
+# 👋 welcome my fellow hominoids and 🤖
 
 *You've made it! I'm elated!*  
 
