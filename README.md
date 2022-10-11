@@ -1,8 +1,21 @@
-# 👋 welcome my fellow hominoids and 🤖
+## 👋 welcome my fellow beings, bots, & Nebulophiles  
+  
+  
+**I am a Software Engineer, Data Scientist, & Anorak Naturalist -**  
+**Who Is Reintroducing Technology & Ecology --**  
+**After Not Seeing Each Other In Nearly A Century!**
 
-*You've made it! I'm elated!*  
-
-## Software Engineer, Data Scientist, & Anorak Naturalist - Reintroducing Technology & Ecology
----  
-**Amateur bryologist, geologist, paleontologist, arborist, cosmologist, numismatist, philatelist, ornithologist, ecologist, bibliophile, and scutelliphile.**  
+I'm Also An Amateur
+  * Bryologist
+  * Geologist
+  * Paleontologist
+  * Dendrochronologist 
+  * Cosmologist
+  * Numismatist
+  * Philatelist
+  * Ornithologist
+  * Systems Ecologist
+  * Bibliophile
+  * Pluviophile
+  * Nebulophile
 
