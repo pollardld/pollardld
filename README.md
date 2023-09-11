@@ -4,9 +4,7 @@ Too many interests
 
 **Putting In The Work Links**  
 
-Hard times are hitting salmon communities across the 
-
-. To fry and help our salmon neighbours get back on their fins, my team built [Snow2Flow](https://s2f.ucsrb.org/). Snow2Flow will tell you what happens to the river if you do something to the forest BEFORE you do it.  
+Hard times are hitting salmon communities across the world. In an effort to get our salmon neighbours get back on their fins, my team built [Snow2Flow](https://s2f.ucsrb.org/). Snow2Flow will tell you what happens to the river if you do something to the forest BEFORE you do it.  
 
 ---  
 
