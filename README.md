@@ -21,3 +21,4 @@ Everyone knows the feeling of having a really really good idea! Then forgetting 
 [Portfolio (currently unpublished)](https://pollardld.com)  
 [Codepen](https://codepen.io/pollardld)  
 [Linkedin](https://www.linkedin.com/in/pollardld/)  
+[Atlas Obscura](https://www.atlasobscura.com/users/diccfish)
