@@ -1,6 +1,6 @@
 # Friends with more than humans
 
-Too many interests
+Many interests
 
 **Putting In The Work Links**  
 
