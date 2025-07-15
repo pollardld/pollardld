@@ -1,4 +1,8 @@
-*Putting the work in*  
+👋  
+
+> Putting the work in
+
+## Some Work Samples
 
 **Hard times are hitting salmon communities** across the world. In an effort to get our salmon neighbours get back on their fins, we built [Snow2Flow](https://s2f.ucsrb.org/). Snow2Flow will tell you what happens to the river if you do something to the forest BEFORE you do it.  
 
@@ -8,7 +12,7 @@ Everyone knows the feeling of having a really really good idea! Then forgetting 
 
 ---  
 
-*Looky Looky*
+## Looky Looky
 
 [Codepen](https://codepen.io/pollardld)  
 [Linkedin](https://www.linkedin.com/in/pollardld/)  
